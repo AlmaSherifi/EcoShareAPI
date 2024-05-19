@@ -1,0 +1,6 @@
+@APIAlma_HostAddress = http://localhost:5069
+
+GET {{APIAlma_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
